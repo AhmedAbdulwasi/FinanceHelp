@@ -8,3 +8,7 @@ This was an assignment from one of my classes and I thought of sharing that proj
 
 ## Languages and Technologies
 - Python
+
+<!--
+Note: If you are wondering what I got for this assignment, it's 100%. I love Python.
+--!>
