@@ -4,7 +4,7 @@ import requests
 
 bp = Blueprint('stocks', __name__)
 
-API_KEY = 'P8J3PZ7O4GLYVKUF'
+API_KEY = 'PRIVATE API'
 
 
 @bp.route('/api/stocks', methods=['GET', 'POST'])
