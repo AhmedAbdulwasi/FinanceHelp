@@ -13,16 +13,6 @@ class DevConfig(Config):
     DEBUG = True
     SQLALCHEMY_ECHO = True
 
-class ProdConfig(Config):
-    SQLALCHEMY_DATABASE_URI = config('DATABASE_URL', default=f"sqlite:///{DATABASE_PATH}")
-    DEBUG = False
-
-class TestConfig(Config):
-    SQLALCHEMY_DATABASE_URI = 'sqlite:///:memory:'
-    TESTING = True
-
 config_dict = {
-    'development': DevConfig,
-    'production': ProdConfig,
-    'testing': TestConfig
+    'development': DevConfig
 }
