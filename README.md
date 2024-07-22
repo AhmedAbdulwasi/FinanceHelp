@@ -6,7 +6,7 @@ Just a simple Finance help that calculates basic financial information such as k
 ## Why?
 This was an assignment from one of my classes and I thought of sharing that project to GitHub. I also wanted to dive into I/O and how to open, read, append and write on files.
 
-**FLASK Update:** This is probably one of my biggest learning opportunities in Python since learning the language as I have learned more about Flask itself and its libraries such as SQLAlchemy, CORS, config, migrate and more.
+**FLASK Update:** This is probably one of my biggest learning opportunities in Python since learning the language as I have learned more about Flask itself and its libraries such as SQLAlchemy, CORS, config, migrate and more. Also introduced me to REST API and RESTFUL API.
 
 ## Languages and Technologies
 - Backend
