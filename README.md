@@ -9,9 +9,12 @@ This was an assignment from one of my classes and I thought of sharing that proj
 FLASK Update: This is probably one of my biggest learning opportunities in Python since learning the language as I have learned more about Flask itself and its libraries such as SQLAlchemy, CORS, config, migrate and more.
 
 ## Languages and Technologies
-- Python
-- Flask
-- Bash
+- Backend
+  - Flask
+  - SQLite
+- Technologies
+  - Git Bash
+  - VS Code
 
 <!--
 Note: If you are wondering what I got for this assignment, it's 100%. I love Python.
